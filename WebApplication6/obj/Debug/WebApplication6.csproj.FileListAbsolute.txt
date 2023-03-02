@@ -162,3 +162,7 @@ C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebAp
 C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
 C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
 C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\EntityFramework.dll
+C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\EntityFramework.xml
+C:\Users\joao.victor\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.xml
